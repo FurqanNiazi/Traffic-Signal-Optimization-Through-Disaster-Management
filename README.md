@@ -28,7 +28,7 @@ This project simulates a traffic light system at an intersection using Pygame fo
     - Replace the placeholder API key in [simulation.py](http://_vscodecontentref_/0) with your actual API key:
       
 ```python      genai.configure(api_key="YOUR_API_KEY")
-      ```
+ ```
 
 ## Usage
 
